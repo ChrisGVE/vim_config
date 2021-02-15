@@ -1,0 +1,8 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMNTBeK0ymGc1ccCkc4NcgDZqkC9zrDX9necoWaEjekP christian.berclaz@mac.com,v
+\,v
+e,v
+,V
+",v
+else  let g:webdevicons_enable = 0endif,V
+if fancy_symbols_enabled,V
+" file finder mapping  nnoremap ,e :Files<CR>  " tags (symbols) in current file finder mapping  nnoremap ,g :BTag<CR>  " the same, but with the word under the cursor pre filled  nnoremap ,wg :execute ":BTag " . expand('<cword>')<CR>  " tags (symbols) in all files finder mapping  nnoremap ,G :Tags<CR>  " the same, but with the word under the cursor pre filled  nnoremap ,wG :execute ":Tags " . expand('<cword>')<CR>  " general code finder in current file mapping  nnoremap ,f :BLines<CR>  " the same, but with the word under the cursor pre filled  nnoremap ,wf :execute ":BLines " . expand('<cword>')<CR>  " general code finder in all files mapping  nnoremap ,F :Lines<CR>  " the same, but with the word under the cursor pre filled  nnoremap ,wF :execute ":Lines " . expand('<cword>')<CR>  " commands finder mapping  nnoremap ,c :Commands<CR>,v
