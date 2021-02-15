@@ -1,3 +1,0 @@
-[submodule "vimfiles/plugged/YankRing.vim"]
-	path = vimfiles/plugged/YankRing.vim
-	url = https://github.com/vim-scripts/YankRing.vim
