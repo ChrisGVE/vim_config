@@ -1,7 +1,10 @@
 # win_config
 Multiple windows 10 configuration files
 
-- for Vim 8, including plugins
+- for Vim 8
+    * .vimrc
+    * vimfiles
 - for Cmder
-- Fonts
-- colorscheme
+    * Nerd fonts
+    * Colorscheme
+    * oh-my-posh
