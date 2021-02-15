@@ -186,13 +186,13 @@ let g:syntastic_check_on_wq=0
 
 " CoC: Conquer of Completion
 " Define which extensions are required
-let g:coc_global_extensions=['coc-bibtex', 'coc-fzf-preview' ,
-            \ 'coc-jedi', 'coc-json', 'coc-markdownlint',
-            \ 'coc-marketplace', 'coc-powershell',
-            \ 'coc-vimlsp', 'coc-vimtex', 'coc-xml', 'coc-diagnostic',
-            \ 'coc-highlight', 'coc-lists', 'coc-pyright',
-            \ 'coc-snippets', 'coc-spell-checker', 'coc-sql',
-            \ 'coc-yank']
+"let g:coc_global_extensions=['coc-bibtex', 'coc-fzf-preview' ,
+"            \ 'coc-jedi', 'coc-json', 'coc-markdownlint',
+"            \ 'coc-marketplace', 'coc-powershell',
+"            \ 'coc-vimlsp', 'coc-vimtex', 'coc-xml', 'coc-diagnostic',
+"            \ 'coc-highlight', 'coc-lists', 'coc-pyright',
+"            \ 'coc-snippets', 'coc-spell-checker', 'coc-sql',
+"            \ 'coc-yank']
 " Use tab for trigger completion with characters ahead and navigate.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
 " other plugin before putting this into your config.

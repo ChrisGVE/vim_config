@@ -1,3 +1,4 @@
+let g:coc_global_extensions=['coc-bibtex', 'coc-fzf-preview' ,            \ 'coc-jedi', 'coc-json', 'coc-markdownlint',            \ 'coc-marketplace', 'coc-powershell',            \ 'coc-vimlsp', 'coc-vimtex', 'coc-xml', 'coc-diagnostic',            \ 'coc-highlight', 'coc-lists', 'coc-pyright',            \ 'coc-snippets', 'coc-spell-checker', 'coc-sql',            \ 'coc-yank'],V
 - colorscheme,V
 git@github.com:ChrisGVE/win_config.git,v
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMNTBeK0ymGc1ccCkc4NcgDZqkC9zrDX9necoWaEjekP christian.berclaz@mac.com,v
