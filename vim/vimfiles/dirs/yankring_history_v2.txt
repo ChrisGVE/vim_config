@@ -1,3 +1,4 @@
+- colorscheme,V
 git@github.com:ChrisGVE/win_config.git,v
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMNTBeK0ymGc1ccCkc4NcgDZqkC9zrDX9necoWaEjekP christian.berclaz@mac.com,v
 \,v
