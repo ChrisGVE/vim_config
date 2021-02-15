@@ -1,0 +1,5 @@
+indentwise	indentwise.txt	/*indentwise*
+indentwise-move-by-absolute-indent	indentwise.txt	/*indentwise-move-by-absolute-indent*
+indentwise-move-by-indent-block-scope	indentwise.txt	/*indentwise-move-by-indent-block-scope*
+indentwise-move-by-relative-indent	indentwise.txt	/*indentwise-move-by-relative-indent*
+indentwise.txt	indentwise.txt	/*indentwise.txt*
