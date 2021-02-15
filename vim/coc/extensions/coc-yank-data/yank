@@ -1,0 +1,65 @@
+432715596d17306860f3699c5573338c|file:///c%3A/Users/chris/.vimrc|40|1|V|vim
+	Plug 'sbdchd/neoformat'
+7b4fb1f4502fbeba901a9520dcf2d080|file:///c%3A/Users/chris/.vimrc|118|1|V|vim
+	set complete+=kspell
+be408f895920b73c79c311f71c7977ab|file:///c%3A/Users/chris/.vimrc|326|1|V|vim
+	" Python custom setup
+2e639debb8552092ba0271bb7dc89282|file:///c%3A/Users/chris/.vimrc|306|30|v|vim
+	g:neomake_python_flake8_maker.exe
+131112003bf1b998062cae39b4ea83e2|file:///c%3A/Users/chris/.vimrc|304|1|V|vim
+	"--------------------------------------------------
+	" Python support
+	"--------------------------------------------------
+a7f5f35426b927411fc9231b56382173|file:///c%3A/Users/chris/.vimrc|338|3|v|vim
+	Python
+7f951bc92e5d06fb9a32ba661b290b3d|file:///c%3A/Users/chris/.vimrc|337|1|V|vim
+	"--------------------------------------------------
+	" Markdown support
+	"--------------------------------------------------
+	
+2182a74bab7188d959e795d9301e87ff|file:///c%3A/Users/chris/.vimrc|342|3|v|vim
+	Markdown
+6ac350e9794e716b4ab1cd0a50dbcbe7|file:///c%3A/Users/chris/.vimrc|348|1|V|vim
+	let g:vim_markdown_frontmatter=1 " for YAML format
+9463f87bbed1fcdacfb8d40e185ca2bc|file:///c%3A/Users/chris/.vimrc|349|45|v|vim
+	YAML
+5e3336d9a5bb0b1bf7d545a1c48d5d99|file:///c%3A/Users/chris/.vimrc|359|1|V|vim
+	"--------------------------------------------------
+	" LaTeX support
+	"--------------------------------------------------
+	
+aa9590fb80ef25fbf3e6b3278f755312|file:///c%3A/Users/chris/.vimrc|364|3|v|vim
+	LaTeX support
+8413c683b4b27cc3f4dbd4c90329d8ba|file:///c%3A/Users/chris/.vimrc|367|3|v|vim
+	Comments
+40fad408b12590cc0b80901a5591ec9c|file:///c%3A/Users/chris/.vimrc|376|1|V|vim
+	" Snippets ----------
+f0f1558743d35398670f8838080899b8|file:///c%3A/Users/chris/.vimrc|363|1|V|vim
+	"--------------------------------------------------
+	" IDE Configuration
+	"--------------------------------------------------
+d70cff54f89f420da35ff162f3831b51|file:///c%3A/Users/chris/.vimrc|377|3|v|vim
+	IDE Configuration
+13348442cc6a27032d2b4aa28b75a5d3|file:///c%3A/Users/chris/.vimrc|374|3|v|vim
+	Search
+0df355e309e417adf1df2d66980c329a|file:///c%3A/Users/chris/.vimrc|375|1|V|vim
+	nnoremap <C-_> <Plug>NERDCommenterToggle
+00e827502f84755afebc400a183c0977|file:///c%3A/Users/chris/.vimrc|428|1|V|vim
+	"--------------------------------------------------
+	" Snippets
+	"--------------------------------------------------
+b2accffe28bb4f4b596c9be64a28d281|file:///c%3A/Users/chris/.vimrc|429|3|v|vim
+	Snippets
+7717721af4309a0cc216a90e2dfce8cb|file:///c%3A/Users/chris/.vimrc|436|1|V|vim
+	nnoremap <M-l> :tabn<cr>
+c6c5b27a7a6f6eba274bb5c603db2f56|file:///c%3A/Users/chris/.vimrc|447|1|V|vim
+	"--------------------------------------------------
+	" Git support
+	"--------------------------------------------------
+	
+17578ad7335fa8f1f1d4475ad7c33379|file:///c%3A/Users/chris/.vimrc|426|1|V|vim
+	if fancy_symbols_enabled
+97868d9fc51336bcaf93470a7373f969|file:///c%3A/Users/chris/.vimrc|427|1|V|vim
+	else
+	  let g:webdevicons_enable = 0
+	endif
